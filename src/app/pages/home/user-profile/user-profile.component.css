@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i');
+
+.sts{
+    position: relative;
+    margin-left: 23px;
+}
+.fa-meta{
+    /*font-family: SourceSansPro-Regular;*/
+    font-size: 12px;
+    color: #8097B7;
+    letter-spacing: 0;
+    position: relative;
+    margin-left: 23px;
+}
+.fa-valusd{
+    position: relative;
+    margin-left: 177px;
+    border-left: 1px solid;
+    padding: 0px 161px;
+}
+.ptile{
+    position: relative;
+    margin-left: 19px;
+    /*font-family: SourceSansPro-Regular;*/
+    font-size: 20px;
+    color: #899FBD;
+    letter-spacing: 0;
+}
+.cur{
+   
+    font-size: 22px;
+}
+.vhr{
+    border-left: 2px solid blue;
+    height: 30px;
+    position: relative;
+    margin-left: 29px;   
+}
+.eth{
+ /*font-family: SourceSansPro-Light;*/
+font-size: 28px;
+color: #546172;
+letter-spacing: 0   
+}
+.fa-one{
+    position: relative;
+    margin-left: 23px;
+}
+.fa-three{
+    position: relative;
+    margin-left: 95px;
+
+}
+.fa-tble{
+    position: relative;
+    margin-left: -17px;
+    margin-top: 3px;
+}
+.tablea{
+    
+    position: absolute;
+    margin-left: -411px;
+    /* border: 1px; */
+    margin-top: 24px;
+   /* border-left: 1px solid;*/
+
+}
+.tble{
+    padding-top: 13px;
+    /*font-family: SourceSansPro-SemiBold;*/
+font-size: 14px;
+color: #546172;
+letter-spacing: 0;
+}
+.tble-hr{
+    border-right: 1px dotted;
+}
+.hr-tagin{
+    border-right: 1px dotted;
+    height: 50%;
+}
+.table>tbody>tr:nth-last-child(1) {
+   border-bottom: 1px dotted;
+} 
